@@ -1,3 +1,3 @@
 
-Beginner to advance
+https://leetcode.com/studyplan/30-days-of-javascript/
 
